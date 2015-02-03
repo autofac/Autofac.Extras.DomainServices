@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autofac.Extras.DomainServices", "src\Autofac.Extras.DomainServices\Autofac.Extras.DomainServices.csproj", "{4A3A14BB-7EBA-4326-AA38-966A74B34ABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autofac.Extras.Tests.DomainServices", "test\Autofac.Extras.Tests.DomainServices\Autofac.Extras.Tests.DomainServices.csproj", "{0100653D-0EFC-44E2-88D3-BA66762B8A7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A3A14BB-7EBA-4326-AA38-966A74B34ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A3A14BB-7EBA-4326-AA38-966A74B34ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A3A14BB-7EBA-4326-AA38-966A74B34ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A3A14BB-7EBA-4326-AA38-966A74B34ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0100653D-0EFC-44E2-88D3-BA66762B8A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0100653D-0EFC-44E2-88D3-BA66762B8A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0100653D-0EFC-44E2-88D3-BA66762B8A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0100653D-0EFC-44E2-88D3-BA66762B8A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
