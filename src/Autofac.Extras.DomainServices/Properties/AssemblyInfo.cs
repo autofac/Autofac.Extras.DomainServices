@@ -1,21 +1,16 @@
 using System;
 using System.Reflection;
+using System.Resources;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
-using System.Security;
 
 [assembly: AssemblyTitle("Autofac.Extras.DomainServices")]
-[assembly: ComVisible(false)]
 [assembly: CLSCompliant(true)]
-[assembly: AllowPartiallyTrustedCallers]
-
-[assembly: AssemblyCompany("Autofac Project - http://autofac.org")]
-[assembly: AssemblyProduct("Autofac")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-
-[assembly: AssemblyVersion("0.0.0.0")]
-[assembly: AssemblyFileVersion("0.0.0.0")]
-[assembly: AssemblyInformationalVersion("0.0.0")]
-[assembly: AssemblyConfiguration("Release")]
+[assembly: ComVisible(false)]
+[assembly: NeutralResourcesLanguage("en-US")]
 [assembly: AssemblyCopyright("Copyright © 2014 Autofac Contributors")]
-[assembly: AssemblyDescription("Autofac Domain Service Factory for RIA Services")]
+[assembly: AssemblyDescription("Autofac Domain Service factory for WCF RIA services.")]
+
+[assembly: AssemblyVersion("4.0.0.0")]
+[assembly: AssemblyFileVersion("4.0.0.0")]
+[assembly: AssemblyInformationalVersion("4.0.0.0")]

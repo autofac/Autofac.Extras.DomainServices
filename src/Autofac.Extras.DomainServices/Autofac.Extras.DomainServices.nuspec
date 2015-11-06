@@ -6,15 +6,15 @@
     <authors>Autofac Contributors</authors>
     <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>This extension allows you to use Autofac dependency injection in RIA domain services.</description>
-    <summary>Autofac extension for RIA services support.</summary>
+    <description>This extension allows you to use Autofac dependency injection in WCF RIA domain services.</description>
+    <summary>Autofac extension for WCF RIA services support.</summary>
     <language>en-US</language>
     <title>Autofac Extras: Domain Service Factory for RIA Services</title>
     <projectUrl>http://autofac.org</projectUrl>
     <iconUrl>http://code.google.com/p/autofac/logo</iconUrl>
     <dependencies>
-      <dependency id="Autofac" version="[3.4.0,4.0.0)" />
-      <dependency id="Autofac.Web" version="[3.2.0,4.0.0)" />
+      <dependency id="Autofac" version="[3.4.0,5.0.0)" />
+      <dependency id="Autofac.Web" version="[3.2.0,5.0.0)" />
     </dependencies>
     <frameworkAssemblies>
         <frameworkAssembly assemblyName="System.ServiceModel.DomainServices.Server" />
