@@ -11,7 +11,7 @@ Please file issues and pull requests for this package in this repository rather 
 - [NuGet](https://www.nuget.org/packages/Autofac.Extras.DomainServices/)
 - [Contributing](https://autofac.readthedocs.io/en/latest/contributors.html)
 
-# Quick Start
+## Quick Start
 
 To get Autofac integrated with RIA/domain services app you need to reference the Domain Services integration NuGet package, register services, and register the integration module.
 
